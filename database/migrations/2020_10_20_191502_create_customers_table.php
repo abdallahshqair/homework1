@@ -24,7 +24,7 @@ class CreateCustomersTable extends Migration
             $table->string('Address2');
             $table->string('City');
             $table->string('State');
-            $table->string('PostalCode');
+            $table->integer('PostalCode');
             $table->string('Country');
             $table->integer('CredLimit');
             $table->foreign('salesRepEmployeeNum')->references('id')->on('employee');

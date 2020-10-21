@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3a9e0d4-3710-4ae3-9a5f-3eef62545879" name="Default Changelist" comment="" />
+    <list default="true" id="c3a9e0d4-3710-4ae3-9a5f-3eef62545879" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_20_191502_create_customers_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_20_191502_create_customers_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_20_194039_create_payments_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_20_194039_create_payments_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,9 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,6 +132,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1j9Zal4d5CudZzJrgaqNk5iM16z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -155,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603218338041</updated>
       <workItem from="1603218339271" duration="1906000" />
-      <workItem from="1603220289884" duration="3827000" />
+      <workItem from="1603220289884" duration="22052000" />
     </task>
     <servers />
   </component>
@@ -171,9 +180,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603218936315" />
+    <state x="188" y="127" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603268822979">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="188" y="127" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603268822979" />
+    <state x="239" y="265" key="Github.ShareDialog" timestamp="1603225372572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="239" y="265" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1603225372571" />
+    <state x="137" y="72" key="Github.UntrackedFilesDialog" timestamp="1603225381940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="72" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603225381940" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1603218617797">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603218617797" />
+    <state x="121" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603267569612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="121" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603267569612" />
   </component>
 </project>
