@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3a9e0d4-3710-4ae3-9a5f-3eef62545879" name="Default Changelist" comment="">
+    <list default="true" id="c3a9e0d4-3710-4ae3-9a5f-3eef62545879" name="Default Changelist" comment="تم زرع البيانات في قاعدة البيانات">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_20_191502_create_customers_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_20_191502_create_customers_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_20_194039_create_payments_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_20_194039_create_payments_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_20_190545_create_employees_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_20_190545_create_employees_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -140,6 +138,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -164,12 +163,33 @@
       <option name="presentableId" value="Default" />
       <updated>1603218338041</updated>
       <workItem from="1603218339271" duration="1906000" />
-      <workItem from="1603220289884" duration="22052000" />
+      <workItem from="1603220289884" duration="22906000" />
+      <workItem from="1603387551372" duration="162000" />
+      <workItem from="1603387805092" duration="706000" />
     </task>
+    <task id="LOCAL-00001" summary="تم زرع البيانات في قاعدة البيانات">
+      <created>1603276540687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603276540687</updated>
+    </task>
+    <task id="LOCAL-00002" summary="تم زرع البيانات في قاعدة البيانات">
+      <created>1603276738020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603276738020</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="تم زرع البيانات في قاعدة البيانات" />
+    <option name="LAST_COMMIT_MESSAGE" value="تم زرع البيانات في قاعدة البيانات" />
   </component>
   <component name="WindowStateProjectService">
     <state x="493" y="243" key="#Composer" timestamp="1603220305329">
@@ -192,6 +212,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="72" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603225381940" />
+    <state x="526" y="100" key="Vcs.Push.Dialog.v2" timestamp="1603276745750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603276745750" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1603218617797">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

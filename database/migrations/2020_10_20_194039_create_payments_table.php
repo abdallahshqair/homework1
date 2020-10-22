@@ -15,7 +15,8 @@ class CreatePaymentsTable extends Migration
     {
         Schema::create('payments', function (Blueprint $table) {
 //            $table->id();
-            $table->tinyIncrements('CheckNum');
+            $table->string('CheckNum')->primary()->unique();
+//            $table->tinyIncrements('CheckNum');
             $table->unsignedBigInteger('CustomerID');
             $table->dateTime('PaymentDate');
             $table->integer('Amount');

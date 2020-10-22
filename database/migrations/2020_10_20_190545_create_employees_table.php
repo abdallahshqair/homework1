@@ -24,6 +24,8 @@ class CreateEmployeesTable extends Migration
             $table->string('JobTitle',100);
             $table->timestamps();
             $table->foreign('office_code')->references('code')->on('offices');
+
+
         });
     }
 
