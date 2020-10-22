@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Models\Payment;
 use Faker\Factory as Faker;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
@@ -15,19 +16,8 @@ class PaymentSeeder extends Seeder
      */
     public function run()
     {
-        $faker=Faker::create();
-
-        for($value=1;$value<10;$value++) {
-            DB::table('payments')->insert([
-
-//                'CheckNum' => $faker->word,
-                'CustomerID' => $value,
-                'PaymentDate' => $faker->dateTime,
-                'Amount' => $value,
-
-
-            ]);
-        }
+        $payment = Payment::factory()->count(3)->create();
+        return $payment;
 
 
     }

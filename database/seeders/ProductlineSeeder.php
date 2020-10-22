@@ -16,17 +16,11 @@ class ProductlineSeeder extends Seeder
      */
     public function run()
     {
+        $productline = Productline::factory()->count(3)->create();
+        return $productline;
 
-        $faker = Faker::create();
 
-        for ($value = 0; $value < 10; $value++) {
-            DB::table('productlines')->insert([
 
-                'DescInText' => $faker->word,
-                'DescInHTML' => $faker->word,
-                'Image' => $faker->word,
-            ]);
-        }
 
 
     }

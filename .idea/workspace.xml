@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3a9e0d4-3710-4ae3-9a5f-3eef62545879" name="Default Changelist" comment="تم زرع البيانات في قاعدة البيانات">
+    <list default="true" id="c3a9e0d4-3710-4ae3-9a5f-3eef62545879" name="Default Changelist" comment="فون كي">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_20_190545_create_employees_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_20_190545_create_employees_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_20_194039_create_payments_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_20_194039_create_payments_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/CustomerSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/CustomerSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/EmployeeSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/EmployeeSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/Officeseeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/Officeseeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/OrderProductSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/OrderProductSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/PaymentSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/PaymentSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/ProductSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/ProductSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/ProductlineSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/ProductlineSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +190,7 @@
       <workItem from="1603218339271" duration="1906000" />
       <workItem from="1603220289884" duration="22906000" />
       <workItem from="1603387551372" duration="162000" />
-      <workItem from="1603387805092" duration="706000" />
+      <workItem from="1603387805092" duration="5870000" />
     </task>
     <task id="LOCAL-00001" summary="تم زرع البيانات في قاعدة البيانات">
       <created>1603276540687</created>
@@ -181,15 +206,34 @@
       <option name="project" value="LOCAL" />
       <updated>1603276738020</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="فون كي">
+      <created>1603388816290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603388816290</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="تم زرع البيانات في قاعدة البيانات" />
-    <option name="LAST_COMMIT_MESSAGE" value="تم زرع البيانات في قاعدة البيانات" />
+    <MESSAGE value="فون كي" />
+    <option name="LAST_COMMIT_MESSAGE" value="فون كي" />
   </component>
   <component name="WindowStateProjectService">
     <state x="493" y="243" key="#Composer" timestamp="1603220305329">
@@ -200,10 +244,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603218936315" />
-    <state x="188" y="127" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603268822979">
+    <state x="188" y="127" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603396859157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="188" y="127" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603268822979" />
+    <state x="188" y="127" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603396859157" />
     <state x="239" y="265" key="Github.ShareDialog" timestamp="1603225372572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -212,14 +256,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="72" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603225381940" />
-    <state x="526" y="100" key="Vcs.Push.Dialog.v2" timestamp="1603276745750">
+    <state x="526" y="100" key="Vcs.Push.Dialog.v2" timestamp="1603388825164">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="526" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603276745750" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1603218617797">
+    <state x="526" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603388825164" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1603396332433">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603218617797" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603396332433" />
     <state x="121" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603267569612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
